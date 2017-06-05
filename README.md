@@ -1,0 +1,3 @@
+# WindowStatusDemo
+使用powermanager动态修改屏幕待机时间
+动态设置屏幕亮度
